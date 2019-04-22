@@ -1,0 +1,26 @@
+{
+  "name": "cypress-testing",
+  "version": "1.0.0",
+  "description": "cypress testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cypress open"
+  },
+  "author": "codeWonderland",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^3.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeWonderland/cypress-testing.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "bugs": {
+    "url": "https://github.com/codeWonderland/cypress-testing/issues"
+  },
+  "homepage": "https://github.com/codeWonderland/cypress-testing#readme"
+}
